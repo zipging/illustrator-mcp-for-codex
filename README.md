@@ -71,7 +71,7 @@ This MCP server currently supports macOS with Adobe Illustrator installed locall
 
 ```bash
 mkdir -p ~/code/mcp
-git clone https://github.com/YOUR_USERNAME/illustrator-mcp-for-codex.git ~/code/mcp/illustrator-mcp-for-codex
+git clone https://github.com/zipging/illustrator-mcp-for-codex.git ~/code/mcp/illustrator-mcp-for-codex
 chmod +x ~/code/mcp/illustrator-mcp-for-codex/illustrator_mcp.py
 ```
 
