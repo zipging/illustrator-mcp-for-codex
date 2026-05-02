@@ -36,17 +36,16 @@ The example gallery is intentionally PNG-only. Editable `.ai` files are not comm
 
 ### Geneformer-style Workflow Figure
 
-Reference paper: [Transfer learning enables predictions in network biology](https://www.nature.com/articles/s41586-023-06139-9). The source article is under exclusive Springer Nature rights, so this repository cites the paper instead of redistributing the original panel PNG.
+Reference paper: [Transfer learning enables predictions in network biology](https://www.nature.com/articles/s41586-023-06139-9). The source article is not CC BY; review the publisher's reuse terms before redistributing the original panel PNG.
 
 <table>
   <tr>
-    <th width="50%">Original reference</th>
+    <th width="50%">Original PNG</th>
     <th width="50%">Recreated with Illustrator MCP</th>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.nature.com/articles/s41586-023-06139-9">Original figure in the paper</a><br>
-      <sub>Not redistributed here because the source article is under exclusive Springer Nature rights.</sub>
+      <img src="examples/geneformer/original.png" width="360" alt="Geneformer original">
     </td>
     <td align="center">
       <img src="examples/geneformer/recreated.png" width="360" alt="Geneformer recreated">
@@ -56,6 +55,7 @@ Reference paper: [Transfer learning enables predictions in network biology](http
 
 Files:
 
+- [`examples/geneformer/original.png`](examples/geneformer/original.png)
 - [`examples/geneformer/recreated.png`](examples/geneformer/recreated.png)
 - [`examples/geneformer/draw_geneformer_recreated.jsx`](examples/geneformer/draw_geneformer_recreated.jsx)
 
